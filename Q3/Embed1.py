@@ -3,7 +3,7 @@ import pandas as pd
 import pdfplumber
 #df = pd.DataFrame()
 # Set your OpenAI API key
-openai.api_key = "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"
+openai.api_key = "MYKEY"
 
 def process_pdf(pdf_path):
     # Extract text from the PDF file
